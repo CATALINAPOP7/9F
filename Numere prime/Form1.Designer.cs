@@ -51,6 +51,7 @@
             this.primenumbertextbox.Name = "primenumbertextbox";
             this.primenumbertextbox.Size = new System.Drawing.Size(175, 22);
             this.primenumbertextbox.TabIndex = 1;
+            this.primenumbertextbox.Text = "jehje";
             this.primenumbertextbox.TextChanged += new System.EventHandler(this.primenumbertextbox_TextChanged);
             // 
             // Form1
