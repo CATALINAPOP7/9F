@@ -39,6 +39,8 @@ namespace Numere_prime
             }
            } else {
              MessageBox.Show("S-a introdus un text");
+                this.BackColor = Color.Yellow;
+                primenumbertextbox.Text = String.Empty;
            }
         }
 
